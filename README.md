@@ -5,3 +5,4 @@
 2. ### [averageOf4Numbers](https://github.com/akramnarejo/100jsfunctions/blob/main/averageOf4Numbers.ts)
 3. ### [concat3](https://github.com/akramnarejo/100jsfunctions/blob/main/concat3.ts)
 4. ### [max5](https://github.com/akramnarejo/100jsfunctions/blob/main/max5.ts)
+4. ### [getMonthsNeededToWait](https://github.com/akramnarejo/100jsfunctions/blob/main/getMonthsNeededToWait.ts)
