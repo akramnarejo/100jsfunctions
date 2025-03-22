@@ -7,3 +7,4 @@
 4. ### [max5](https://github.com/akramnarejo/100jsfunctions/blob/main/max5.ts)
 5. ### [getMonthsNeededToWait](https://github.com/akramnarejo/100jsfunctions/blob/main/getMonthsNeededToWait.ts)
 6. ### [getGasolineAmount](https://github.com/akramnarejo/100jsfunctions/blob/main/getGasolineAmount.ts)
+7. ### [lastNRevert](https://github.com/akramnarejo/100jsfunctions/blob/main/lastNRevert.ts)
