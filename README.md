@@ -9,3 +9,4 @@
 6. ### [getGasolineAmount](https://github.com/akramnarejo/100jsfunctions/blob/main/getGasolineAmount.ts)
 7. ### [lastNRevert](https://github.com/akramnarejo/100jsfunctions/blob/main/lastNRevert.ts)
 7. ### [getBusinessAddress](https://github.com/akramnarejo/100jsfunctions/blob/main/getBusinessAddress.ts)
+7. ### [getUserObject](https://github.com/akramnarejo/100jsfunctions/blob/main/getUserObject.ts)
