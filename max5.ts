@@ -9,6 +9,11 @@
     input: 19, 12, 2, -31, 19.5
     output: 19.5
 
+    Time complexity & memory efficiency:
+
+    Time complexity: O(1)
+    Space complexity: O(1)
+
 */}
 
 function max5(...args: number[]): number {

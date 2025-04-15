@@ -13,7 +13,11 @@
       example:
       input: {"name":"Jon Doe","age":21} {"engineSize":1200,"name":"Mazda 3"}
       output: true
-  
+
+      Time complexity & memory efficiency:
+
+      time complexity: O(1)
+      space complexity: O(1)
   */
   }
   

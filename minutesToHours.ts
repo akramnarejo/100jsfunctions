@@ -9,6 +9,11 @@
     input: 150 minutes
     output: 2.5
 
+    Time complexity & memory efficiency:
+
+    Time complexity: O(1)
+    Space complexity: O(1)
+
 */}
 
 function minutesToHours(minutes: number): number {

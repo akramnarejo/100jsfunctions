@@ -13,6 +13,11 @@
     output: 1
     Explaination: We have to wait 1 month to get from December to January
 
+    Time complexity & memory efficiency:
+
+    time complexity: O(1)
+    space complexity: O(1)
+
 */}
 
 function getMonthsNeededToWait(start: number, end: number): number {
