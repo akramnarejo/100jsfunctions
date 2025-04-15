@@ -11,6 +11,11 @@
     input: string1 = "HTML", string2 = "CSS", string3 = "Javascript", separator = ","
     output: "HTML,CSS,Javascript"
 
+    Time complexity & memory efficiency:
+
+    time complexity: O(n)
+    space complexity: O(n)
+
 */}
 
 function concat3(string1: string, string2: string, string3: string, separator: string): string {
