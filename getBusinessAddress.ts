@@ -9,6 +9,11 @@
     input: {"address":{"number":3,"zipCode":123500,"street":"Avenuepark"},"name":"100 Functions ltd."}
     output: "Avenuepark, number 3, 123500"
 
+    Time complexity & memory efficiency:
+
+    time complexity: O(n)
+    space complexity: O(n)
+
 */}
 
 function getBusinessAddress(business: {address: {number: number, zipCode: number, street: string}, name: string}): string {

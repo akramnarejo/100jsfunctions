@@ -11,6 +11,11 @@
     output: 16.384
     Explaination: We need 16.384 liters of gasoline to complete the trip
 
+    Time complexity & memory efficiency:
+
+    time complexity: O(1)
+    space complexity: O(1)
+
 */}
 
 function getGasolineAmount(distance: number, consumptionPer100Km: number): number {

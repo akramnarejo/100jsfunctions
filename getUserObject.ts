@@ -13,6 +13,11 @@
     input: "Jon", "Doe", 31
     output: {"name":"Jon Doe","age":31}
 
+    Time complexity & memory efficiency:
+
+    time complexity: O(n)
+    space complexity: O(n)
+
 */
 }
 

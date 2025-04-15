@@ -12,6 +12,11 @@
     output: "stri"
     Explaination: Last 4 characters are irts and their reversed order is stri.
 
+    Time complexity & memory efficiency:
+
+    Time complexity: O(n)
+    Space complexity: O(n)
+
 */}
 
 function lastNRevert(text: string, n: number): string {
